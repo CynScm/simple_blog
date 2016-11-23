@@ -4,7 +4,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<div class="articleContent">
-				<!-- 标题 -->
+				<!-- 标题  -->
 				<div class="title"><?php the_title();?></div>
 				<!-- 访问量 ...-->
 				<div class="secTitleBar">
