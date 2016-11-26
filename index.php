@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+<?php get_header();  ?>
 <!--文章列表-->
 	<div class="articleList container">
 		<div class="row">
