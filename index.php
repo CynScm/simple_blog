@@ -1,6 +1,6 @@
 <?php get_header();  ?>
 <!--文章列表-->
-	<div class="articleList container">
+	<div class="articleList  container">
 		<div class="row">
 			<div class="col-md-12">
 			    <?php if(have_posts()) : ?>
