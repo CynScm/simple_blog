@@ -26,7 +26,7 @@
 				</div>
 				<!-- 评论 -->
 				<div class="post_content">
-					<?php comments_template( '', true ); ?>
+					<?php  comments_template( '', true ); ?>
 			    </div>
 			</div>
 		</div>
